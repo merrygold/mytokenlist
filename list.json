@@ -1,0 +1,40 @@
+{
+    "name": "Compound",
+    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+    "keywords": [
+      "compound",
+      "defi"
+    ],
+    "timestamp": "2021-05-27T20:37:00.000+00:00",
+    "tokens": [
+      {
+        "chainId": 11155111,
+        "address": "0x5AA482aadf5c54318A9DE75E52Deeb9A0E7d4e0B",
+        "name": "Sepolia Compound",
+        "symbol": "sCOMP",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+      },
+      {
+        "chainId": 11155111,
+        "address": "0x9a956f581e5BDB9A67A0Bd6E01DFA8271Eb8bdc0",
+        "name": "Sepolia USDT",
+        "symbol": "sUSDT",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+      },
+      {
+        "chainId": 11155111,
+        "address": "0xEeb9CcEe1a36a9dF87108A421161792cBA7a6121",
+        "name": "Sepolia Solana",
+        "symbol": "sSOL",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/github/explore/14191328e15689ba52d5c10e18b43417bf79b2ef/topics/solana/solana.png"
+      }
+    ],
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "patch": 0
+    }
+  }
